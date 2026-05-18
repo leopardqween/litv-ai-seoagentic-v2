@@ -24,8 +24,6 @@ Current focus:
 
 - Expanded beta tester onboarding materials.
 - Continued public-safe changelog setup for GitHub visibility.
-- Kept private setup details and internal implementation notes out of the
-  public repo.
 
 ### 2026-05-14
 

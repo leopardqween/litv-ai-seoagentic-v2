@@ -25,7 +25,6 @@ Current focus:
 ### 2026-05-18
 
 - Expanded beta tester onboarding materials.
-- Continued public-safe changelog setup for GitHub visibility.
 
 ### 2026-05-14
 

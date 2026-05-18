@@ -1,5 +1,7 @@
 # LITV AI SEO Agent v2
 
+![LITV AI SEO Agent logo](brand/seoagent-og.png)
+
 Public changelog for LITV AI SEO Agent v2.
 
 This repository is used as a simple public progress log. It does not contain
@@ -35,7 +37,7 @@ Current focus:
 
 - Continued dashboard tooling work.
 - Refined support and upload handling.
-- Kept crawler and visibility tooling positioned as preflight support features.
+- Added crawler and visibility checks to support pre-audit review workflows.
 
 ### 2026-05-12
 

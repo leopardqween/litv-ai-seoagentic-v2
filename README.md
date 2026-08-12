@@ -22,6 +22,15 @@ Current focus:
 
 ## Changelog
 
+### 2026-08-12
+
+- Migrated AI model routing ahead of provider retirement schedules. Audit
+  quality and regional data routing are unchanged.
+- Strengthened release verification and deployment checks.
+- Expanded automated security monitoring coverage.
+- Refreshed the Privacy Policy and Terms of Service to reflect the current
+  AI provider set.
+
 ### 2026-05-18
 
 - Expanded beta tester onboarding materials.

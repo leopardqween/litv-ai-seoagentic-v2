@@ -22,6 +22,16 @@ Current focus:
 
 ## Changelog
 
+### 2026-08-26
+
+- Upgraded the web framework to the latest secure release.
+- Verified backend framework and dependencies against the latest security
+  advisories, with no exposure found.
+- Corrected Core Web Vitals scoring to track Interaction to Next Paint,
+  replacing the retired First Input Delay signal.
+- Adopted the llms.txt v2 specification with page-level AI crawler
+  discovery links.
+
 ### 2026-08-12
 
 - Migrated AI model routing ahead of provider retirement schedules. Audit

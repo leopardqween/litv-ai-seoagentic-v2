@@ -22,6 +22,12 @@ Current focus:
 
 ## Changelog
 
+### 2026-09-23
+
+- Applied the latest security release for the web framework.
+- Tightened entity authority scoring so brand profile links only count when
+  they point at a recognised profile platform.
+
 ### 2026-08-26
 
 - Upgraded the web framework to the latest secure release.

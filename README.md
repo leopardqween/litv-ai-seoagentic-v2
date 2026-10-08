@@ -22,6 +22,11 @@ Current focus:
 
 ## Changelog
 
+### 2026-10-07
+
+- Applied the latest web framework security release, strengthening image
+  handling and page caching protections.
+
 ### 2026-09-23
 
 - Applied the latest security release for the web framework.

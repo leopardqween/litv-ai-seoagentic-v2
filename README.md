@@ -28,6 +28,8 @@ Current focus:
   server-side caching protections.
 - Applied the latest security updates to the backend sign-in verification
   layer.
+- Upgraded the front-end rendering library to its latest major version,
+  keeping the platform current and supported.
 
 ### 2026-10-07
 

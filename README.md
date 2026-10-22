@@ -22,6 +22,13 @@ Current focus:
 
 ## Changelog
 
+### 2026-10-22
+
+- Applied the latest security release for the web framework, strengthening
+  server-side caching protections.
+- Applied the latest security updates to the backend sign-in verification
+  layer.
+
 ### 2026-10-07
 
 - Applied the latest web framework security release, strengthening image
